@@ -7,7 +7,7 @@ logo: # filename of a logo image that has been placed into your images directory
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
   name: Peter Flach
-  avatar: bio-photo.jpg
+  avatar: PeterCartoon-square.jpg
   bio: "Peter Flach is Professor of Artificial Intelligence at the University of Bristol since 2003."
   # Do not include the @ symbol in your Twitter username
   twitter: #username
